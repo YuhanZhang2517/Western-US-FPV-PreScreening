@@ -1,0 +1,9 @@
+Name,State,Occurrences,Source_Files,Original_Ownership_Values,Merged_Ownership
+Coeur d'Alene Lake,Idaho,2,State_Top30_Solar_cleaned.csv; Utility_Top30_Solar_cleaned.csv,"Tribe, State, Private | Tribe, State, Private","Tribal, State, Private"
+Franklin D Roosevelt Lake,Washington,2,Federal_Top30_Solar_cleaned.csv; State_Top30_Solar_cleaned.csv,"Federal, State, Tribe | Federal, State, Tribe","Federal, State, Tribal"
+Goose Lake,California,3,Federal_Top30_Solar_cleaned.csv; State_Top30_Solar_cleaned.csv; Utility_Top30_Solar_cleaned.csv,"Federal, Private, State | Federal, Private, State | Federal, Private, State","Federal, Private, State"
+Honey Lake,Nevada,3,Federal_Top30_Solar_cleaned.csv; State_Top30_Solar_cleaned.csv; Utility_Top30_Solar_cleaned.csv,"State, Federal, Private | State, Federal, Private | State, Federal, Private","State, Federal, Private"
+Lake Elsinore,California,2,LocalGov_Top30_Solar_cleaned.csv; State_Top30_Solar_cleaned.csv,"Local Government, State | Local Government, State","Local Government, State"
+Lake Washington,Washington,3,LocalGov_Top30_Solar_cleaned.csv; State_Top30_Solar_cleaned.csv; Utility_Top30_Solar_cleaned.csv,"State, Local Government, Private | State, Local Government, Private | State, Local Government, Private","State, Local Government, Private"
+Mono Lake,California,2,Federal_Top30_Solar_cleaned.csv; State_Top30_Solar_cleaned.csv,"State, Federal | State, Federal","State, Federal"
+Salton Sea,California,2,Federal_Top30_Solar_cleaned.csv; Private_Top30_Solar_cleaned.csv,"Federal,Public Utility, Tribal | Federal,Public Utility, Tribal","Federal, Public Utility, Tribal"

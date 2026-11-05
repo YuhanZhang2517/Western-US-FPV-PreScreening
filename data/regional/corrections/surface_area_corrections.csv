@@ -1,0 +1,2 @@
+source_id,name,state,original_surfaceArea_acres,corrected_surfaceArea_acres,correction_date,approved_by,evidence,reason
+CO01654,Flatiron Dam,Colorado,381500.0,45.0,2026-11-04,Yuhan Zhang (corresponding author),"Reclamation 2012 Flatiron Reservoir survey report (about 45 acres, 730 acre-ft); Northern Water Flatiron Reservoir page (47 acres, 760 acre-ft)","NID value implies a mean depth of 0.003 ft against 1136 acre-ft of storage and exceeds the 7.06 mi2 NID drainage area; 381500 is about 8000 times the published surface area"

@@ -1,0 +1,10 @@
+Criterion,Top-30 Median,Rest Median,p-value
+Annual Evaporation,2.0,6.0,<0.001
+Ice (Binary),1.0,10.0,<0.001
+Capacity Factor,3.0,6.5,<0.001
+Log Annual Solar (GWh),3.5,6.0,0.008
+State Environmental Regulation,1.0,6.0,0.035
+Harmful Algal Bloom Flag,10.0,10.0,0.151
+Ownership,6.5,6.0,0.214
+Distance to Transmission Line,1.0,4.0,0.235
+Maximum Wind Speed,6.0,5.0,0.944

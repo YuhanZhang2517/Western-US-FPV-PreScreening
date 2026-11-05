@@ -1,0 +1,10 @@
+Criterion,Top-30 Median,Rest Median,U Statistic,Raw p-value,Significant
+Annual Evaporation,2.0,6.0,438.0,8.818818925392522e-10,Yes
+Ice (Binary),1.0,10.0,678.0,1.37671545123748e-09,Yes
+Capacity Factor,3.0,6.5,686.5,1.2966850272487494e-06,Yes
+Log Annual Solar (GWh),3.5,6.0,1112.0,0.008467612192275974,Yes
+State Environmental Regulation,1.0,6.0,1223.5,0.0354956048457463,Yes
+Harmful Algal Bloom Flag,10.0,10.0,1461.0,0.1506492475692053,No
+Ownership,6.5,6.0,1857.5,0.21369838288855403,No
+Distance to Transmission Line,1.0,4.0,1398.5,0.23529540620537526,No
+Maximum Wind Speed,6.0,5.0,1606.0,0.9441650573796909,No
